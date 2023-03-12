@@ -1,0 +1,19 @@
+.logo {
+  height: 8vh;
+}
+.navbar {
+  /* height: 8vh; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.8rem;
+  background-color: indianred;
+}
+
+.navbar > div {
+  /* border: 1px solid red; */
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  cursor: pointer;
+}
